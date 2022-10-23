@@ -31,15 +31,15 @@ The following is the list of the requested and the provided deliverable files fo
 
 **Deliverable 1:**
 
-**[HTML Code](./index.html)**.
+    **[HTML Code](./index.html)**.
 
-**[JavaScript Code](./static/js/app.js)**.
+    **[JavaScript Code](./static/js/app.js)**.
 
-**[CSS Code](./static/css/style.css)**.
+    **[CSS Code](./static/css/style.css)**.
 
 **Deliverable 2:**
 
-**[README File](./README.md)**.
+    **[README File](./README.md)**.
 
 ## Results
 
