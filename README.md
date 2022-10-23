@@ -29,9 +29,9 @@ The following is the list of the requested and the provided deliverable files fo
 
 ### Provided Deliverables:
 
-**Deliverable 1:** **[HTML Code](./index.html)**, **[JavaScript Code](./static/js/app.js)*, **[CSS Code](./static/css/style.css)**.
+**Deliverable 1:** *[HTML Code](./index.html), [JavaScript Code](./static/js/app.js), [CSS Code](./static/css/style.css)*.
 
-**Deliverable 2:** **[README File](./README.md)**.
+**Deliverable 2:** *[README File](./README.md)*.
 
 ## Results
 
